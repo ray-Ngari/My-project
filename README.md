@@ -27,19 +27,33 @@ The project uses **descriptive analysis, inferential statistics, and data visual
 
 ![image](https://github.com/user-attachments/assets/b729d836-5f0b-4961-9403-dd7ad2b5b566)
 
+
+
+
 - **The top three aircraft with the highest accident counts are:**  
   - **Cessna (26,522 accidents)**  
   - **Piper (14,557 accidents)**  
   - **Beech (5,138 accidents)**  
 - The **Cessna 152 is the model with the most accidents**.  
-- **Aircraft with one engine have the most accidents**.  
+- **Aircraft with one engine have the most accidents**.
+
+
+
+  
 
 ![image](https://github.com/user-attachments/assets/c7f895fd-c812-4147-ac3e-ae0cebe906dc)
 
+
+
 - **The United States has the highest accident count**, with over **79,000 accidents in 61 years**.  
   - This is **over 200 times** the number of accidents in **Brazil**, which has the second-highest accident count.  
-  - **In the USA, Anchorage, Albuquerque, and Houston** are the locations with the highest accident counts.  
+  - **In the USA, Anchorage, Albuquerque, and Houston** are the locations with the highest accident counts.
+ 
+    
 ![image](https://github.com/user-attachments/assets/d193f80d-20a0-43fe-890b-68e4a636087f)
+
+
+
 
 - **Trends in Accidents and Fatalities**  
   - **The blue line shows the trend of accident counts, which seems to be reducing over time.**  
